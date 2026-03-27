@@ -31,19 +31,18 @@ A multifunctional tool for remote PC management via a Discord bot. Designed for 
 
 ## 🎮 Commands / Команди
 
-| Command / Команда | Description (EN) | Опис (UA) |
-| :--- | :--- | :--- |
-| `!select <pc_name>` | Start session with specific PC | Почати сесію з конкретним ПК |
-| `!help` | Detailed list of all functions | Детальний список усіх функцій |
-| `!ss` | Take a screenshot | Зробити скріншот екрану |
-| `!ls` | View directory content | Переглянути вміст директорії |
-| `!rm <file>` | Delete a specific file | Видалити конкретний файл |
-| `!rmdir <folder>` | Delete a folder and its content | Видалити папку та її вміст |
-| `!history` | Export Chrome history to TXT | Експорт історії Chrome у TXT |
-| `!webcam` | Take a photo from webcam | Фото з веб-камери |
+| Command / Команда | Опис |
+| :--- | :--- |
+| `!select <pc_name>` | Почати сесію з конкретним ПК |
+| `!help` | Детальний список усіх функцій |
+| `!ss` | Зробити скріншот екрану |
+| `!ls` | Переглянути вміст директорії |
+| `!rm <file>` | Видалити конкретний файл |
+| `!rmdir <folder>` | Видалити папку та її вміст |
+| `!history` | Експорт історії Chrome у TXT |
+| `!webcam` | Фото з веб-камери |
 
 ---
 
-## ⚠️ Disclaimer / Відмова від відповідальності
-**EN:** This tool is for educational purposes only. Unauthorized access to computer systems is illegal. The author is not responsible for any misuse.
+## ⚠️ Відмова від відповідальності
 **UA:** Цей інструмент створено виключно для освітніх цілей. Несанкціонований доступ до комп'ютерних систем є незаконним. Автор не несе відповідальності за будь-яке зловживання.
