@@ -1,7 +1,7 @@
 # 🖥️ DisnakEye
 ![logo](logo.png)
 
-###A multifunctional tool for remote PC management via a Discord bot. Designed for personal use, allowing you to control your computer from anywhere in the world.
+A multifunctional tool for remote PC management via a Discord bot. Designed for personal use, allowing you to control your computer from anywhere in the world.
 
 ### 🌟 Основні можливості
 * **Файловий менеджер:** Повний доступ до файлової системи (`ls`, `cd`, `mkdir`).
